@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8b7a0b55-9520-49e7-b1c5-8298a7f344d3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/1.3.JavaCollections.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/copilot.data.migration.agent.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/copilot.data.migration.ask.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/copilot.data.migration.ask2agent.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/copilot.data.migration.edit.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.3.JavaCollections/Level1/Exercise1/App/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.3.JavaCollections/Level1/Exercise1/Model/Month.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.3.JavaCollections/Level1/Exercise2/App/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.3.JavaCollections/Level1/Exercise2/Model/ListManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.3.JavaCollections/Level1/Exercise3/App/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.3.JavaCollections/Level1/Exercise3/Data/scores.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.3.JavaCollections/Level1/Exercise3/Model/CountryGame.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.3.JavaCollections/Level1/Exercise3/Model/FileManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.3.JavaCollections/Level1/Exercise3/Resources/countries.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.3.JavaCollections/countries.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Level1/Exercise1/App/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Level1/Exercise1/Model/Month.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Level1/Exercise2/App/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Level1/Exercise2/Model/ListManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Level1/Exercise3/App/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Level1/Exercise3/Data/scores.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Level1/Exercise3/Model/CountryGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Level1/Exercise3/Model/FileManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Level1/Exercise3/Resources/countries.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="3426J4ZfevcZJqsLsoNDjdktTJY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/Volumes/Carlos Alberto/Carlos Alberto/Programación/ITAcademy/Java Backend/03. Especialización/Sprint1/1.3.JavaCollections",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8b7a0b55-9520-49e7-b1c5-8298a7f344d3" name="Changes" comment="" />
+      <created>1760399244252</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1760399244252</updated>
+    </task>
+    <servers />
+  </component>
+</project>

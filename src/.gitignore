@@ -1,0 +1,65 @@
+# ===================================
+#  Java + IntelliJ + macOS .gitignore
+# ===================================
+
+# ---> Java
+*.class
+*.log
+*.ctxt
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Error logs generats per la JVM
+hs_err_pid*
+replay_pid*
+
+# ---> IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+out/
+.idea_modules/
+*.ipr
+
+# Fitxers d'usuari específics
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries
+.idea/shelf/
+.idea/httpRequests/
+
+# Caches i configuracions temporals
+.idea/caches/
+.idea/assetWizardSettings.xml
+.idea/libraries/
+
+# Carpetes de compilació
+/build/
+target/
+
+# ---> macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.Spotlight-V100
+.Trashes
+.fseventsd
+
+# ---> Logs i temporals
+logs/
+*.log
+*.swp
+*~
+*#
+
+# ---> Exclusions específiques del projecte
+# Mantén els arxius de dades necessaris
+!Level1/Exercise3/Resources/countries.txt
+!Level1/Exercise3/Data/scores.txt
