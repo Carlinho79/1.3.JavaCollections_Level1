@@ -4,7 +4,6 @@
 
 # ---> Java
 *.class
-*.log
 *.ctxt
 *.jar
 *.war
@@ -61,5 +60,5 @@ logs/
 
 # ---> Exclusions específiques del projecte
 # Mantén els arxius de dades necessaris
-!Level1/Exercise3/Resources/countries.txt
-!Level1/Exercise3/Data/scores.txt
+!src/Level1/Exercise3/Resources/countries.txt
+!src/Level1/Exercise3/Data/scores.txt
