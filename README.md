@@ -97,7 +97,7 @@ The program:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/user/1.3-JavaCollections-Nivell1.git
+   git clone https://github.com/carlinho79/1.3-JavaCollections-Nivell1.git
 
 2. Open the project in IntelliJ IDEA (Community Edition).
 3. Ensure each exercise directory (Exercise1, Exercise2, Exercise3) is marked as a Java source root.

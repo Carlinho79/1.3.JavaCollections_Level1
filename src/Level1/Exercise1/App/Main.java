@@ -61,12 +61,18 @@ public class Main {
         }
 
         System.out.println("Final list complete and without duplication:");
-        months.forEach(m -> System.out.println(m.getName()));
+        for (Month m : months) {
+            System.out.println(m.getName());
+        }
+
     }
 
     // Helper method to show different Set behaviors
     private static void showSet(Set<Month> set, String description) {
         System.out.println("\n" + description + ":");
-        set.forEach(m -> System.out.println(m.getName()));
+        for (Month m : set) {
+            System.out.println(m.getName());
+        }
+
     }
 }
