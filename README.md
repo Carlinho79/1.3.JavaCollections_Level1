@@ -142,9 +142,7 @@ git commit -m "Refactor CountryGame class"
 
 ---
 
-## ✍️ Author
-Developed by Carlos Alberto Garzón
-IT Academy – Sprint 1 (Java Backend Module)
----
-
-##
+## 👩‍💻 Autor
+Nom: Carlos Alberto Garzón Bedoya
+Curs: Java Backend - IT Academy
+Sprint: 1. Tasca 3 — Java Collections
