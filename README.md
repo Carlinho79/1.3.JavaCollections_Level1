@@ -143,6 +143,7 @@ git commit -m "Refactor CountryGame class"
 ---
 
 ## 👩‍💻 Autor
-Nom: Carlos Alberto Garzón Bedoya
-Curs: Java Backend - IT Academy
-Sprint: 1. Tasca 3 — Java Collections
+Nom: Carlos Alberto Garzón Bedoya.
+Curs: Java Backend - IT Academy.
+Sprint: 1. Tasca 3 — Java Collections.
+
